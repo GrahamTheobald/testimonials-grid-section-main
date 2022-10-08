@@ -35,6 +35,9 @@ body .main {
 }
 body .main .test.purple {
   background-color: var(--ModerateViolet);
+  background-image: url(../images/bg-pattern-quotation.svg);
+  background-position: top right 2rem;
+  background-repeat: no-repeat;
 }
 body .main .test.grey {
   background-color: var(--VeryDarkGrayishBlue);

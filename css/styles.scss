@@ -37,6 +37,9 @@ body {
         gap: 2rem;
         .test.purple {
             background-color: var(--ModerateViolet);
+            background-image: url(../images/bg-pattern-quotation.svg);
+            background-position: top right 2rem;
+            background-repeat: no-repeat;
         }
         .test.grey {
             background-color: var(--VeryDarkGrayishBlue);
